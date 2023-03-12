@@ -1,6 +1,6 @@
 package com.oh.extra;
 
-public class NewParty {
+public class Party {
 	void test() {
 		
 	}
