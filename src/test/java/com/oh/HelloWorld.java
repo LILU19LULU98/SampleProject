@@ -1,7 +1,7 @@
 package com.oh;
 
 public class HelloWorld {
-	public static void demo() {
+	public static void demoArun() {
 		
 	}
 }
